@@ -1,1 +1,3 @@
-# 3-password_generator
+# Project Title: Password Generator
+___
+## Objective
