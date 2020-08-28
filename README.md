@@ -36,7 +36,7 @@ ___
 Password generation plays a vital role in society today as more people rely on the internet to perform personal and business activities.  There will always be hackers trying to disrupt these activities.  This application could be used in both personal and business environments.  Those individuals who find difficulty creating passwords without using personal words or dates could find it useful.  Also, businesses that need to send multiple temporary passwords to their customers via email could recognize this application as a more effective approach if their use has a brief time expiration.
 ___
 ## Application Links and Images:
-**Links:**
+**Links:**  
 Application link: (https://ed-sivick.github.io/3-password_generator/Develop/index.html)  
 index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html  
 JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js  
