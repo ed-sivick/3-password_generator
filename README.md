@@ -45,4 +45,4 @@ style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/D
 **Application Image Examples:**  
   <img src="Develop/images/passwordgen1.png" width="350" align="left top" title="image of password length entry prompt" alt="image of password length entry prompt">
   
-  <img src="Develop/images/passwordgen2.png" width="350" align="left top" title="image of generated password" alt="image of generated password">
+  <img src="Develop/images/passwordgen2.png" width="350" align="right top" title="image of generated password" alt="image of generated password">
