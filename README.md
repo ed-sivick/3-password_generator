@@ -43,6 +43,8 @@ JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/mast
 style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css  
 
 **Application Image Examples:** Hover the mouse over each image for a brief description. 
+<p align="left">
   <img src="Develop/images/passwordgen1.png" height="450" align="left" title="image of password length entry prompt" alt="image of password length entry prompt">
   
   <img src="Develop/images/passwordgen2.png" height="450" align="right" title="image of generated password" alt="image of generated password">
+  </p>
