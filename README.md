@@ -38,9 +38,9 @@ ___
 ## Application Links and Images  
 **Links:**  
 Application link: (https://ed-sivick.github.io/3-password_generator/Develop/index.html)  
-index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html  
-JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js  
-style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css  
+index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html)  
+JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js)  
+style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css)  
 
 **Application Image Examples:** Hover the mouse over each image for a brief description. 
 <p align="left">
