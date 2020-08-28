@@ -34,3 +34,18 @@ I could not get the **password** to display in the textarea of the index.html do
 ___
 ## Summary
 Password generation plays a vital role in society today as more people rely on the internet to perform personal and business activities.  There will always be hackers trying to disrupt these activities.  This application could be used in both personal and business environments.  Those individuals who find difficulty creating passwords without using personal words or dates could find it useful.  Also, businesses that need to send multiple temporary passwords to their customers via email could recognize this application as a more effective approach if their use has a brief time expiration.
+___
+## Application Links and Images:
+**Links:**
+Application link: [Password Generator](https://ed-sivick.github.io/3-password_generator/Develop/index.html)
+index.html code: [index.html]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html
+JavaScript.js code: [script.js]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js
+style.css code: [style.css]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css
+
+**Image Examples:**
+<img src="Develop/images/passwordgen2.png" alt="Password length entry" style="height: 300px; width: 200px;">
+
+<p align="left">
+  <img src="Develop/images/passwordgen2.png" width="350" title="hover text">
+  <img src="Develop/images/passwordgen2.png" width="350" alt="Password length entry">
+  </p>
