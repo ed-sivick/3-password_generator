@@ -18,9 +18,9 @@ ___
 The **passwordStart()** was added to the onclick event of the **Generate Password** button to call the function in JavaScript when the button is pressed.
 
 ## Layout: script.js
-The 4 sets of characters defined in the Objective criteria were declared as strings: **lowerChars**, **upperChars**, **numericChars**, and **specialChars**.  The **specialChars** string had to be divided into 2 strings (specialChars1 and specialChars2) to include the double quote ("), and the back slash(\\). The 2 strings were concatenated, and the **substring()** method was used to extract the full set of special characters excluding the second back slash.  The following functions were then called to generate a password:
-- The **passwordStart()** function was used to reset the **password** and **criteriaChars** variables assigned to empty strings; **passLength** variable assigned to 0; **passCriteria** variable assigned to an empty array, and **console.clear()** function to clear the console so that execution of the code could be easily viewed.
-- The **getPassLength()** function was used to ask the user for a numeric, whole number entry for the password length.  A while loop was used to reject the entry if it was not a number, the entry  included a decimal point, the number was less than 8, or if the number was greater than 128.  The **passLength** variable was then converted to an integer.
+The 4 sets of characters defined in the Objective criteria were declared as strings: **lowerChars**, **upperChars**, **numericChars**, and **specialChars**.  The **specialChars** string had to be divided into 2 strings (specialChars1 and specialChars2) to include the double quote ("), and the back slash(\\). The 2 strings were concatenated, and the **substring()** method was used to extract the full set of special characters, excluding the second back slash.  The following functions were then called to generate the password:
+- The **passwordStart()** function was used to reset the **password** and **criteriaChars** variables assigned to empty strings; **passLength** variable assigned to 0; **passCriteria** variable assigned to an empty array, and **console.clear()** function to clear the console so that execution of the code could be viewed by developers.
+- The **getPassLength()** function was used to ask the user for a numeric, whole number entry for the password length.  A while loop was used to invalidate the entry if it was not a number, the entry  included a decimal point, the number was less than 8, or if the number was greater than 128.  The **passLength** variable was then converted to an integer.
 - The **getPassCriteria()** function was used to confirm if the user wanted to incorporate the 4 sets of characters identified in the password criteria.  A while loop checked if all 4 of the **confirm()** methods were false, and the function repeated.
 - The **generateCriteria()** function was used to build a string of characters from the criteria list selected as true in the **getPassCriteria** function. The string variable, **criteriaChars**, contained this string.  A for loop was run with  **i < passLength** as the condition.  For each **i** iteration, a random character was added to **password** using the formula: 
 **password = password + criteriaChars.charAt(Math.floor(Math.random() * criteriaChars.length))**.
@@ -42,7 +42,7 @@ index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/
 JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js  
 style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css  
 
-**Application Image Examples:**  
-  <img src="Develop/images/passwordgen1.png" width="350" align="left top" title="image of password length entry prompt" alt="image of password length entry prompt">
+**Application Image Examples:** Hover the mouse over each image for a brief description. 
+  <img src="Develop/images/passwordgen1.png" width="350" align="left" title="image of password length entry prompt" alt="image of password length entry prompt">
   
-  <img src="Develop/images/passwordgen2.png" width="350" align="right top" title="image of generated password" alt="image of generated password">
+  <img src="Develop/images/passwordgen2.png" width="350" align="right" title="image of generated password" alt="image of generated password">
