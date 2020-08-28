@@ -42,7 +42,7 @@ index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/
 JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js  
 style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css  
 
-**Application Image Examples:**
+**Application Image Examples:**  
   <img src="Develop/images/passwordgen1.png" width="350" align="left" title="image of password length entry prompt" alt="image of password length entry prompt">
   
   <img src="Develop/images/passwordgen2.png" width="350" align="right" title="image of generated password" alt="image of generated password">
