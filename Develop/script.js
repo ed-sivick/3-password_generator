@@ -34,21 +34,17 @@ var criteriaChars = "";
 // Declare password to an empty string
 var password = "";
 
-function clearPass() {
-  document.getElementById("password").value = "";
-  }
-
 function passwordStart() {
-  // Re-set variables locally if user presses generate password multiple times
+  // Re-set variables & clear the console if user presses generate password multiple times
+  password = "";
   passLength = 0;
   passCriteria = [];
   criteriaChars = "";
-  password = "";
+  console.clear();
   getPassLength();
   getPassCriteria();
   generateCriteria();
 }
-
 // function to select valid password length
 function getPassLength() {
   passLength = prompt("Please enter a password length.\nThe length must be a whole number between 8 and 128.");
@@ -84,7 +80,6 @@ function getPassCriteria() {
 // function to create criteriaChars string based on confirmed criteria selection
 // create password from criteriaChars using Math.random() and Math.floor() functions
 function generateCriteria() {
-
   if (passCriteria[0]) {
     criteriaChars = lowercaseChars;
     console.log(criteriaChars);
@@ -105,6 +100,9 @@ function generateCriteria() {
     password = password + criteriaChars.charAt(Math.floor(Math.random() * criteriaChars.length));
   }
   console.log(password);
+  // Use setTimeout function to allow viewport text area and alert show password close to same time 
   document.getElementById("password").value = password;
-  alert("Your password is: " + password);
+  setTimeout(function () {
+    alert("Your password is: " + password);
+  }, 0);
 }
