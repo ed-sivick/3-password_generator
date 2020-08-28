@@ -37,15 +37,14 @@ Password generation plays a vital role in society today as more people rely on t
 ___
 ## Application Links and Images:
 **Links:**
-Application link: [Password Generator](https://ed-sivick.github.io/3-password_generator/Develop/index.html)
-index.html code: [index.html]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html
-JavaScript.js code: [script.js]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js
-style.css code: [style.css]https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css
+Application link: (https://ed-sivick.github.io/3-password_generator/Develop/index.html)
+index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html
+JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js
+style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css
 
 **Image Examples:**
-<img src="Develop/images/passwordgen2.png" alt="Password length entry" style="height: 300px; width: 200px;">
-
 <p align="left">
-  <img src="Develop/images/passwordgen2.png" width="350" title="hover text">
-  <img src="Develop/images/passwordgen2.png" width="350" alt="Password length entry">
+  <img src="Develop/images/passwordgen1.png" width="350" title="image of password length entry prompt" alt="image of password length entry prompt">
+  
+  <img src="Develop/images/passwordgen2.png" width="350" title="image of generated password" alt="image of generated password">
   </p>
