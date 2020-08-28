@@ -29,13 +29,13 @@ The password was then sent to the index.html **textarea** using the **getElement
 The password was also displayed using the **window alert()** method:
 **alert("Your password is: " + password)**
 
-## Challenges:
+## Challenges  
 I could not get the **password** to display in the textarea of the index.html document until after selecting **OK** on the alert window.  A person with the identity (iarcones) on the Ask BCS Learning Assistant told me this is a common issue when using alerts.  They informed me to use the **setTimeout(())** method before the line of code calling the **window alert()** method and it solved the problem.
 ___
-## Summary
-Password generation plays a vital role in society today as more people rely on the internet to perform personal and business activities.  There will always be hackers trying to disrupt these activities.  This application could be used in both personal and business environments.  Those individuals who find difficulty creating passwords without using personal words or dates could find it useful.  Also, businesses that need to send multiple temporary passwords to their customers via email could recognize this application as a more effective approach if their use has a brief time expiration.
+## Summary  
+Password generation plays a vital role in society today as more people rely on the internet to perform personal and business activities.  There will always be hackers trying to disrupt these activities.  Although the use of window alert, confirm, and prompt methods are not the best way to build this application, it could be used in both personal and business environments.  Those individuals who find difficulty creating passwords without using personal words or dates could consider it helpful.  Also, businesses that need to send multiple temporary passwords to their customers via email could recognize this application as a more effective approach if their use has a brief time expiration.
 ___
-## Application Links and Images:
+## Application Links and Images  
 **Links:**  
 Application link: (https://ed-sivick.github.io/3-password_generator/Develop/index.html)  
 index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html  
