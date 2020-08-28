@@ -65,10 +65,10 @@ function getPassCriteria() {
   passCriteria.push(confirm("Would you like to include uppercase letters in the password?"));
   console.log(passCriteria);
   // confirm to include numbers
-  passCriteria.push(confirm("Would you like to include numbers letters in the password?"));
+  passCriteria.push(confirm("Would you like to include numbers in the password?"));
   console.log(passCriteria);
   // confirm to include special characters
-  passCriteria.push(confirm("Would you like to include special characters letters in the password?"));
+  passCriteria.push(confirm("Would you like to include special characters in the password?"));
   console.log(passCriteria);
   // repeat function if all criteria selections are false
   while ((!passCriteria[0]) && (!passCriteria[1]) && (!passCriteria[2]) && (!passCriteria[3])) {
