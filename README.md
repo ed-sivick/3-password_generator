@@ -40,14 +40,14 @@ Password generation plays a vital role in society today as more people rely on t
 ___
 ## Application Links and Images  
 **Links:**  
-Application link: (https://ed-sivick.github.io/3-password_generator/Develop/index.html)  
-index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/index.html)  
-JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/script.js)  
-style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/Develop/style.css)  
+Application link: (https://ed-sivick.github.io/3-password_generator/index.html)  
+index.html code: (https://github.com/ed-sivick/3-password_generator/blob/master/index.html)  
+JavaScript.js code: (https://github.com/ed-sivick/3-password_generator/blob/master/assets/script.js)  
+style.css code: (https://github.com/ed-sivick/3-password_generator/blob/master/assets/style.css)  
 
 **Application Image Examples:** Hover the mouse over each image for a brief description. 
 <p align="left">
-  <img src="Assets/Images/passwordgen1.png" height="450" align="left" title="image of password length entry prompt" alt="image of password length entry prompt">
+  <img src="assets/images/passwordgen1.png" height="450" align="left" title="image of password length entry prompt" alt="image of password length entry prompt">
   
-  <img src="Assets/Images/passwordgen2.png" height="450" align="right" title="image of generated password" alt="image of generated password">
+  <img src="assets/images/passwordgen2.png" height="450" align="right" title="image of generated password" alt="image of generated password">
   </p>
