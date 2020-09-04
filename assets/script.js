@@ -106,3 +106,4 @@ function generateCriteria() {
     alert("Your password is: " + password);
   }, 0);
 }
+// Adding comment, GitHub repo could not run app because .js and .css files not recognized, folder change from Assets to assets
